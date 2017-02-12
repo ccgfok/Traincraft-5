@@ -3,28 +3,28 @@
 <!-- ## Save the file the same way this file was saved but replace "en_US" with appropriate language name ## -->
 
 <!-- ## Blocks ## -->
-tile.tc:oreTC.copperOre.name=Copper Ore
-tile.tc:oreTC.oilSands.name=Oil Sands
-tile.tc:oreTC.petroleum.name=Petroleum
-tile.tc:oreTC.ballast.name=Ballast
-tile.tc:generatorDiesel.name=Diesel Generator
-tile.tc:windMill.name=Windmill
-tile.tc:waterWheel.name=Water Wheel
-tile.tc:lantern.name=Lantern
-tile.tc:openFurnaceActive.name=Hearth Furnace (active)
-tile.tc:openFurnaceIdle.name=Hearth Furnace
-tile.tc:stopper.name=Train Buffer
-tile.tc:trainWorkbench.name=Train Workbench
-tile.tc:distilActive.name=Distill (active)
-tile.tc:distilIdle.name=Distill
-tile.tc:assemblyTableI.name=Assembly Table I
-tile.tc:assemblyTableII.name=Assembly Table II
-tile.tc:assemblyTableIII.name=Assembly Table III
-tile.tc:tcRail.name=Traincraft Rail
-tile.tc:tcRailGag.name=Traincraft Rail
-fluid.tc:fluid.diesel.name=Diesel Fuel
-fluid.tc:refinedfuel.name=Refined Fuel
-tile.tc:bridgePillar.name=Bridge Pillar
+tile.tc:oreTC.copperOre.name=銅の鉱石
+tile.tc:oreTC.oilSands.name=オイルサンド
+tile.tc:oreTC.petroleum.name=石油
+tile.tc:oreTC.ballast.name=バラスト
+tile.tc:generatorDiesel.name=軽油ジェネレータ
+tile.tc:windMill.name=風車
+tile.tc:waterWheel.name=水の車輪
+tile.tc:lantern.name=提灯
+tile.tc:openFurnaceActive.name=かまどのハート（アクティブ）
+tile.tc:openFurnaceIdle.name=かまどのハート
+tile.tc:stopper.name=列車バッファ
+tile.tc:trainWorkbench.name=列車ワークベンチ
+tile.tc:distilActive.name=滴下（アクティブ）
+tile.tc:distilIdle.name=滴下
+tile.tc:assemblyTableI.name=アセンブリーテーブルＩ
+tile.tc:assemblyTableII.name=アセンブリーテーブルＩＩ
+tile.tc:assemblyTableIII.name=アセンブリーテーブルＩＩＩ
+tile.tc:tcRail.name=トレクラの鉄道
+tile.tc:tcRailGag.name=トレクラの鉄道
+fluid.tc:fluid.diesel.name=軽油の燃料
+fluid.tc:refinedfuel.name=精製された燃料
+tile.tc:bridgePillar.name=橋の柱
 
 
 <!-- ## Railcraft items ## -->
